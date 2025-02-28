@@ -31,8 +31,6 @@
 
 <br clear="both">
 
-<img src="C:\Users\retkesivan\Desktop\github\.github.workflows\snake.yml" alt="Snake animation" />
-
 ###
 
 <div align="left">
