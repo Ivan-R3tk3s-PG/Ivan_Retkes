@@ -31,7 +31,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Ivan-R3tk3s-PG/Ivan-R3tk3s-PG/output/snake.svg" alt="Snake animation" />
+<img src="C:\Users\retkesivan\Desktop\github\.github.workflows\snake.yml" alt="Snake animation" />
 
 ###
 
